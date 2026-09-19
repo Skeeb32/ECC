@@ -2011,4 +2011,4 @@ MIT. Use it freely, adapt it to your workflow, and contribute back when you can.
 
 **Star this repo if it helps. Read the guides. Build something great.**
 
-## Trying this out for the first time
+## Day 2 of trying this out.
